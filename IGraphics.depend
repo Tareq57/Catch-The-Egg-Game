@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1608314761 source:c:\users\lenovo\onedrive\documents\igraphics-master\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+
+1563940332 c:\users\lenovo\onedrive\documents\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\users\lenovo\onedrive\documents\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\users\lenovo\onedrive\documents\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
